@@ -1,13 +1,16 @@
-# Full-CRUD-food-delivery-app-flutter
-#Full CRUD food delivery app flutter (dart),with firebase authentication and firestore
+# foodproj
 
-#Project works on 2 phases as per the development I made both admin dashboard login seperately.If you wish to change the preview mode pls change the main.dart file code
+A new Flutter project.
 
-#in the code change it open to home so you will get the main processes with sign up,login and home page and etc.
+## Getting Started
 
-#Password Recovery available
-#Secure Login
-#Interesting UI/UX
-#Admin LogIn
-#Admin page
-#etc.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
